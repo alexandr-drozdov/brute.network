@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+gem "github-pages", group: :jekyll_plugins
+title: brute.network
+description: Decentralized network designed for use as the backend for multiplayer games, multimedia & communication services, distributed computing & storage systems etc.
+logo: assets/images/icon.jpg

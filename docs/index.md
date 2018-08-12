@@ -1,5 +1,3 @@
 ---
-layout: default
+layout: brute
 ---
-Support development:
-{% include donate.paypal.html %}
